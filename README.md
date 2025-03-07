@@ -3,6 +3,7 @@
 ## Tree Canopy and Land Cover Analysis
 
 **Published by:** Ryan Zuber
+
 **Date:** March 2025
 
 ### **Overview**
