@@ -4,7 +4,7 @@
 
 **Published by:** Ryan Zuber
 
-**Date:** March 2025
+**Date:** 6 March 2025
 
 ### **Overview**
 This project provides georeferenced maps for a field trip focused on tree canopy coverage and land cover analysis in Kentucky. The maps are available in both **JPEG for web preview** and **Geospatial PDF for mobile use in Avenza Maps**.
