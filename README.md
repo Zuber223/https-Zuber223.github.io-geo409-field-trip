@@ -15,7 +15,7 @@ This project provides georeferenced maps for a field trip focused on tree canopy
 This map displays selected land cover types across Kentucky.
 
 **Preview:**
-![Kentucky Land Cover](kylandcover.jpg)
+![Kentucky Land Cover](kylandcover.jpeg)
 
 **Download PDF:**
 [Download Kentucky Land Cover Map (PDF)](kylandcover.pdf)
